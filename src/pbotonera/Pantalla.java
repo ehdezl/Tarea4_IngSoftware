@@ -7,7 +7,7 @@ package pbotonera;
 
 /**
  *
- * @author Emiio
+ * @author EmiioHernandez
  */
 public class Pantalla extends javax.swing.JFrame {
 
