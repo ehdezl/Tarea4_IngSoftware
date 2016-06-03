@@ -7,7 +7,7 @@ package pbotonera;
 
 /**
  *
- * @author Emilio no va a llegar el viernes en la mañana
+ * @author 
  */
 public class Pantalla extends javax.swing.JFrame {
 
